@@ -3,7 +3,7 @@
 # PoC Script to go out on the net to the IBM POD site and tally up activations for a given i or p Series machine
 # Chris-R rutherfc@gmail.com
 # v1.0 9/9/2011
-# v2.0 	1/4/2020 update for perl 5 no subsciprts starting at 1 and changes to www-912.ibm.com/pod/pod
+# v2.0 	1/4/2020 update for perl 5 no subsscrpts starting at 1 and changes to www-912.ibm.com/pod/pod
 #
 # todo - add logic for processor deactivation - who uses that? IBM dont even publish the code on the pod site ;)
 # perhaps start with the machines base config from IBM
